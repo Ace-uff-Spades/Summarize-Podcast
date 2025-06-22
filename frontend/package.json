@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/react": "^19.1.8",
+    "next": "^14.x",
+    "react": "^18.x",
+    "react-dom": "^18.x"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.3",
+    "typescript": "5.8.3"
+  }
+}
