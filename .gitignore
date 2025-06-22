@@ -18,6 +18,8 @@ frontend/node_modules
 # misc
 .DS_Store
 *.pem
+/Bad Examples of Outputs/
+/Good Examples of Outputs/
 
 # debug
 npm-debug.log*
