@@ -12,3 +12,4 @@ uvicorn
 openai
 python-multipart
 react
+faiss-cpu

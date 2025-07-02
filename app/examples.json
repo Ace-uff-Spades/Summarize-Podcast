@@ -1,0 +1,172 @@
+{
+    "Good examples": [
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary1.html",
+            "comments": [ 
+                " - Pro: Good distribution of notes." ,
+                " - Pro: Good section headings. " ,
+                " - Pro: Good use of formmating with Headings font size, font weight, and font color." ,
+                " - Pro: Actionable Takeways section has great use of formatting with background color, emoji use, and number of bullets. It should have more details per bullet point.",
+                " - Con: It doesn't follow the correct section format of: title, tldr, actionable takeways, script, appendix." ,
+                " - Con: Should have more notes under each section. Atleast 3 bullet points per section."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary2.html",
+            "comments": [
+                " - Pro: Great design formatting for each podcast section.",
+                " - Pro: Great use of emojis. It was the perfect amount",
+                " - Pro: Actionable Takeways' section has great use of formatting with background color, and number of bullets. It should have more details per bullet point.",
+                " - Con: Bullets under each section are great but are a bit superficial. They should be more indepth.", 
+                " - Con: It doesn't follow the correct section format of: title, tldr, actionable takeways, script, appendix."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary3.html",
+            "comments": [
+                " - Pro: Followed the correct format of: title, tldr, actionable takeways, script. However, it left out the appendix and the order isn't correct.",
+                " - Pro: Good number of bullets under each section",
+                " - Con: Doesn't use emoji's correctly. Format for sections and Actionable Takeaways is boring and plain.",
+                " - Con: Bullets under each section are great but are a bit superficial. They should be more indepth."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary4.html",
+            "comments": [
+                " - Pro: Followed the correct format of: title, tldr, actionable takeways, script, and Appendix. However, the order is not correct. Actionable takeaways should be after Tldr",
+                " - Con: No use of emojis at all. The page looks boring and hard to follow",
+                " - Con: Bullets under each section are great but are a bit superficial. They should be more indepth."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary5.html",
+            "comments": [
+                " - Pro: Introduction section is perfect.",
+                " - Pro: Font colors, and emoji usage for the title and podcast sections are great.",
+                " - Con: Bullets under each section are great but are a bit superficial. They should be more indepth.",
+                " - Con: It doesn't follow the correct section format of: title, tldr, actionable takeways, script, appendix."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary6.html",
+            "comments": [
+                " - Pro: Good use of emojis.",
+                " - Pro: Font sizes for sections are good",
+                " - Con: Section Header's font colors have too many colors and thus makes it distracting and hard to follow",
+                " - Con: It doesn't follow the correct section format of: title, tldr, actionable takeways, script, appendix.",
+                " - Con: Bullets are very superficial and needs more depth in each one. Each point needs to exapanded on."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary7.html",
+            "comments": [
+                " - Pro: Has great structure.",
+                " - Pro: Includes an important points and a actionable takeways section.",
+                " - Pro: Good number of bullets",
+                " - Con: Section Header's font colors have too many colors and thus makes it distracting and hard to follow",
+                " - Con: Poor use of emojis and font sizes between titles, section headers and subsection headers",
+                " - Con: Bullets are very superficial and needs more depth in each one. Each point needs to exapanded on."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary8.html",
+            "comments": [
+                " - Pro: Good number of bullets",
+                " - Pro: Font size for the title and podcast sections are great.",
+                " - Con: Bullets under each section are great but are a bit superficial. They should be more indepth and expansive.",
+                " - Con: font colors for the section headers and the titles are clashing, making it hard to read."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary9.html",
+            "comments": []
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary10.html",
+            "comments": [
+                " - Pro: Great set of bullets. Both in terms of quantity and quality.",
+                " - Pro: Great font size for all the titles.",
+                " - Pro: Perfect amount of sections and great structure.",
+                " - Con: Emoji use in the bullet points was not good. They shouldn't be at the end of the sentences. Too many emoji usage in general.",
+                " - Con: Actionable takeaways should start with a subtext that summarizes the point. They should also have more details to each of them."
+            ]
+        },
+        {
+            "formatted_file_path": "./Good Examples of Outputs/Good_Notes_formatted_summary11.html",
+            "comments": [
+                " - Pro: Great font size for all the titles.",
+                " - Pro: Perfect amount of sections and great structure.",
+                " - Pro: Great use of font color and bolding.",
+                " - Con: Not enough emoji use",
+                " - Con: Actionable takeaways should start with a subtext that summarizes the point. They should also have more details to each of them.",
+                " - Con: The bullets should be a lot more indepth. They should really encompass all the details of the point"
+            ]
+        }
+    ],
+    "Bad examples": [
+        {
+            "formatted_file_path": "./Bad Examples of Outputs/Bad_Notes_formatted_summary1.html",
+            "comments": [ 
+                " - Con: Bullet formmatting in each section is terrible",
+                " - Con: Each section title font formatting and list formatting is terrible",
+                " - Con: It doesn't follow the correct section format of: title, tldr, actionable takeways, script, appendix. It's missing the tldr, actionable takeaways, and appendix sections",
+                " - Con: Lack of emoji use, and the lack of well designed section formatting makes the page very boring and hard to read.",
+                " - Con: Bullets are short and don't provide much value"
+            ]
+        },
+        {
+            "formatted_file_path": "./Bad Examples of Outputs/Bad_Notes_formatted_summary2.html",
+            "comments": [ 
+                " - Con: Only one bullet per section.",
+                " - Con: Each section title font formatting and list formatting is terrible",
+                " - Con: It doesn't follow the correct section format of: title, tldr, actionable takeways, script, appendix. It's missing the tldr, actionable takeaways, and appendix sections"
+            ]
+        },
+        {
+            "formatted_file_path": "./Bad Examples of Outputs/Bad_Notes_formatted_summary3.html",
+            "comments": [ 
+                " - Pro: use of Timestamps is great so that users can find the particular bullet in the podcast.",
+                " - Con: Small amount of podcast sections. Each section doesn't have detailed bullets.",
+                " - Con: Formatting is boring. No use of emojis.",
+                " - Con: It doesn't follow the correct section format of: title, tldr, actionable takeways, script, appendix. It's missing the tldr, actionable takeaways, and appendix sections"
+            ]
+        },
+        {
+            "formatted_file_path": "./Bad Examples of Outputs/Bad_Notes_formatted_summary4.html",
+            "comments": [ 
+                " - Pro: Followed the correct format of: title, tldr, actionable takeways, script, and Appendix. However, the order is not correct. Actionable takeaways should be after Tldr",
+                " - Pro: Use of timestamps is great. however, they shouldn't be in the section title", 
+                " - Con: Small amount of bullets per section. The bullets aren't detailed enough.",
+                " - Con: Lack of emojis makes the page very unreable."
+            ]
+        },
+        {
+            "formatted_file_path": "./Bad Examples of Outputs/Bad_Notes_formatted_summary5.html",
+            "comments": [ 
+                " - Con: The bullets aren't detailed enough.",
+                " - Con: Lack of emojis makes the page very unreable.",
+                " - Con: The font size, font, section design, and emoji use are all terrible. They make the page super boring to read"
+            ]
+        },
+        {
+            "formatted_file_path": "./Bad Examples of Outputs/Bad_Notes_formatted_summary6.html",
+            "comments": [ 
+                " - Con: very boring outline.",
+                " - Con: Lack of emojis makes the page very unreable.",
+                " - Con: The font size, font, section design, and emoji use are all terrible. They make the page super boring to read",
+                " - Con: It doesn't follow the correct section format of: title, tldr, actionable takeways, script, appendix. It's missing the tldr, actionable takeaways, and appendix sections"
+            ]
+        },
+        {
+            "formatted_file_path": "./Bad Examples of Outputs/Bad_Notes_formatted_summary7.html",
+            "comments": [ 
+                " - Con: Terrible use of font colors. Super distracting and makes it really hard to read.",
+                " - Con: Background color across the whole screen also makes it distracting to read",
+                " - Pro: Good structure. Has all the necessary sections",
+                " - Con: Emojis not used correctly",
+                " - Con: Bullets are very superficial and needs more depth in each one. Each point needs to exapanded on.",
+                " - Con: Not enough bullets under each section. Should be minimum 6"
+            ]
+        }
+    ]
+}

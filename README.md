@@ -62,7 +62,7 @@ An AI-powered application that takes podcast transcripts (PDF format) and genera
 1. **Start the FastAPI backend**
    ```bash
    # From the root directory
-   uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+   uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
    ```
 
 2. **Start the Next.js frontend**
@@ -73,12 +73,12 @@ An AI-powered application that takes podcast transcripts (PDF format) and genera
    ```
 
 3. **Access the application**
-   - Frontend: http://localhost:3000
+   - Frontend: http://127.0.0.1:8000
    - Backend API: http://localhost:8000
 
 ## 📖 Usage
 
-1. r yo**Upload a PDF transcript** of any podcast episode
+1. **Upload a PDF transcript** of any podcast episode
 2. **Click "Generate Summary"** to process the transcript
 3. **View the formatted summary** with timestamps, key points, and actionable takeaways
 4. **Download or copy** the HTML output four notes
@@ -95,7 +95,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ### Testing
 
-- Backend: The FastAPI server includes automatic API documentation at http://localhost:8000/docs
+- Backend: The FastAPI server includes automatic API documentation at http://127.0.0.1:8000/docs
 - Frontend: Use `npm run dev` for development with hot reloading
 
 ## 🤝 Contributing
@@ -118,6 +118,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 2. **API key errors**: Verify your OpenAI API key is correctly set in the `.env` file
 3. **CORS errors**: The backend is configured to allow all origins in development mode
 4. **File upload issues**: Ensure the `uploads/` directory exists and has write permissions
+5. **Backend API is not found**: Make sure the FastAPI server is running. By default, it should be at http://127.0.0.1:8000/.
+If you run the server with just uvicorn app.main:app --reload, check the terminal for the actual URL (it may be http://127.0.0.1:8000 or another address).
+If the server is running on a different URL or port, update the API URL in frontend/lib/api.ts to match.
 
 ### Getting Help
 
